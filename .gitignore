@@ -17,3 +17,6 @@ x64/
 # Ignore configuration files with sensitive data
 config.ini
 credentials.json
+# Ignore VSCode directory within client and server folders
+client/.vscode/
+server/.vscode/
