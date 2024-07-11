@@ -6,3 +6,14 @@
 "*.VC.db" 
 "*.cache" 
 "*.csproj.user" 
+# Ignore Visual Studio files
+.vs/
+x64/
+
+# Ignore compiled binaries
+*.exe
+*.dll
+
+# Ignore configuration files with sensitive data
+config.ini
+credentials.json
